@@ -1,1 +1,1 @@
-
+The Visitor Management System (VMS) is a desktop application built using Java Swing to manage visitorsentering a facility such as an office, school, or government building. It replaces traditional paper-based tracking methods with a digital, secure, and efficient system. The application helps maintain detailed logs, manages check-ins and check-outs, and provides valuable reports and insights into visitor data.
